@@ -1,0 +1,3 @@
+([('gui_client',
+   '/Users/devanshgoenka/Desktop/secret/dist/gui_client',
+   'EXECUTABLE')],)
